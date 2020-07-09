@@ -5,7 +5,7 @@
   "bankList"  :
    [
     {
-     "accountType": "saving',
+     "accountType": "saving",
      "bankacctnumber": "1234567890",
      "bankRoutingNumber" : "0123456",
       "bankname" : "FD Financial"
