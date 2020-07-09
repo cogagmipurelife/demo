@@ -1,6 +1,6 @@
 {
-  "accountid": "1001"
-  "responsecode": "200"
+  "accountid": "1001",
+  "responsecode": "200",
   "responseMessage": "Succssfully found the accounts",
   "bankList"  :
    [
