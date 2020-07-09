@@ -2,13 +2,13 @@
   "accountid": "1001",
   "responsecode": "200",
   "responseMessage": "Succssfully found the accounts",
-  "bankList"  :
+  "bankList":
    [
     {
      "accountType": "saving",
      "bankacctnumber": "1234567890",
      "bankRoutingNumber" : "0123456",
-      "bankname" : "FD Financial"
+      "bankname": "FD Financial"
 }
 ]
  }
